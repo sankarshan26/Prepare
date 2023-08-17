@@ -10,7 +10,7 @@
 ](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 
 [Sort binary array in linear time
-](http://www.techiedelight.com/sort-binary-array-linear-time/)
+](http://www.techiedelight.com/sort-binary-array-linear-time/) &nbsp;&nbsp;&nbsp;&nbsp;Done
 
 [Find a duplicate element in a limited range array
 ](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
