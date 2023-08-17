@@ -1,7 +1,7 @@
 # ARRAYS
 
 [Find pair with given sum in the array
-](http://www.techiedelight.com/find-pair-with-given-sum-array/) Done
+](http://www.techiedelight.com/find-pair-with-given-sum-array/)                          Done
 
 [Check if subarray with 0 sum is exists or not
 ](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
