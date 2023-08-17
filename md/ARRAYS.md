@@ -4,7 +4,7 @@
 ](http://www.techiedelight.com/find-pair-with-given-sum-array/) &nbsp;&nbsp;&nbsp;&nbsp;Done
 
 [Check if subarray with 0 sum is exists or not
-](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
+](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/) &nbsp;&nbsp;&nbsp;&nbsp;Done
 
 [Print all sub-arrays with 0 sum
 ](http://www.techiedelight.com/find-sub-array-with-0-sum/)
